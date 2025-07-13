@@ -1,0 +1,1 @@
+# i dont know how to write C++ very well... this is left as a placeholder for a contribution

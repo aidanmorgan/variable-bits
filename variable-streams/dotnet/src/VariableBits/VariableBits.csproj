@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <RootNamespace>VariableBits</RootNamespace>
+    <AssemblyName>VariableBits</AssemblyName>
+    <Version>0.1.0</Version>
+    <Authors>VariableBits Contributors</Authors>
+    <Description>A library for reading and writing a stream of data as individual bits with variable bit widths.</Description>
+  </PropertyGroup>
+
+</Project>
